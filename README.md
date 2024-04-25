@@ -5,7 +5,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Jong+Mun;Game+Client" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Jaehee%2C+Nam;Web+Backend" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
@@ -14,25 +14,22 @@
 <summary>About Me</summary>
 <br><br>
 <span>
-  <a href="https://jeongjongmun.github.io">
+  <a href="https://jaenam615.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-FFD700?style=plastic&logo=GitHub Sponsors&logoColor=black"/>
   </a>
 </span>
 <span>
-  <a href="mailto:jeongjongmun@kau.kr">
+  <a href="mailto:jaenam2060@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
 <br><br>
 
 ## OBJECTIVE
-Game Client
+Web Backend
 
 ## WORK EXPERIENCE
 None
-
-## EDUCATION
-Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace University)
 
 ## ADDITIONAL SKILLS
 <span>
@@ -68,13 +65,13 @@ Bachelor Degree of Software engineering (03/2019 ~ Present) (Korea Aerospace Uni
 <br><br>
 <div align="center">
 <!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJongMun&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=JeongJongMun&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeongJongMun&theme=react-dark&bg_color=20232a&hide_border=true&line=FFD700&color=FFD700" width=94%/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenam615&&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=jaenam615&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaenam615&&theme=react-dark&bg_color=20232a&hide_border=true&line=FFD700&color=FFD700" width=94%/>
 
 <br><br>
 <!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJongMun&count_bg=%23FFD700&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaenam615&&count_bg=%23FFD700&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
 <br><br><br><br>
 
 <!-- Footer banner -->
