@@ -36,18 +36,8 @@ None
     <img src="https://img.shields.io/badge/ C-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ C++-blueviolet?style=plastic&logo=Cplusplus&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
 </span>
-<span>
-    <img src="https://img.shields.io/badge/ C%23-blueviolet?style=plastic&logo=C%23&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Unity-grey?style=plastic&logo=unity&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
-   
 <span>
     <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
