@@ -28,10 +28,7 @@
 ## OBJECTIVE
 Web Backend
 
-## WORK EXPERIENCE
-None
-
-## ADDITIONAL SKILLS
+<!-- ## ADDITIONAL SKILLS
 <span>
     <img src="https://img.shields.io/badge/ C-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
@@ -43,7 +40,7 @@ None
 </span>
 <span>
     <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
+</span> -->
 
 ## Baekjoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaenam2060)](https://solved.ac/jaenam2060)
