@@ -1,66 +1,29 @@
+# 안녕하세요, 백엔드 개발자 남재희입니다.
 
-<div align="center">
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br>
-    
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Jaehee%2C+Nam;Web+Backend" alt="Typing SVG" /></a>
-<br>
-<div align="center">  
-<br>
-<!-- My CV/resume -->
-<details>
-<summary>About Me</summary>
-<br><br>
-<span>
-  <a href="https://jaenam615.github.io">
-    <img src="https://img.shields.io/badge/GitHub Blog-FFD700?style=plastic&logo=GitHub Sponsors&logoColor=black"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:jaenam2060@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-</span>
-<br><br>
+대용량 데이터를 다루며 **성능·안정성·확장성** 문제를 해결하는 데 흥미를 느끼고,  
+새로 배운 개념은 반드시 **직접 구현하고 실험하며 이해를 검증하는 개발자**입니다.
 
-## OBJECTIVE
-Web Backend
+## 🔥 Strengths
+- **성능과 확장성에 강함**  
+  대용량 데이터 파이프라인 운영 경험을 바탕으로, 쿼리 튜닝·병렬 처리·캐싱 등 성능 개선에 익숙합니다.
 
-<!-- ## ADDITIONAL SKILLS
-<span>
-    <img src="https://img.shields.io/badge/ C-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
-<span>
-    <img src="[https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span> -->
+- **문제 해결 중심의 디버깅 능력**  
+  로그 분석 → 재현 → 근본 원인 파악까지 스스로 진행하며 실 서비스 장애를 해결한 경험이 있습니다.
 
-## Baekjoon
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaenam2060)](https://solved.ac/jaenam2060)
+- **배우면 실험하는 개발자**  
+  LRU Cache, WAL·SSTable, 트래픽 부하 실험 등 새로운 개념을 직접 구현하며 이해를 검증합니다.
 
-</div>
-</div>
 
-</details>
-<br><br>
-<div align="center">
-<!-- My profile -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenam615&&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-<img src="https://github-readme-stats.vercel.app/api?username=jaenam615&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width=56% />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaenam615&&theme=react-dark&bg_color=20232a&hide_border=true&line=FFD700&color=FFD700" width=94%/>
+  ## 📌 Projects
+- [**FastAPI Scalable Board**](https://github.com/jaenam615/fastapi_crud)
+  Redis, MySQL Master-Replica, Prometheus/Grafana, Locust 부하 테스트
 
-<br><br>
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaenam615&&count_bg=%23FFD700&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-<br><br><br><br>
+- [**DDIA - In Python**](https://github.com/jaenam615/ddia-python)
+  WAL, Memtable, LSM-Tree 등
 
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+  ## 🧰 Tech Stack
+**Languages**: Python, TypeScript, Kotlin, SQL
+**Backend**: FastAPI, Spring Boot, 
+**Data**: MySQL, Redis, Snowflake  
+**Infra**: AWS(ECS, SQS, S3), Docker, Terraform  
+**Etc**: Prometheus, GitHub Actions
