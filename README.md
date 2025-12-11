@@ -15,15 +15,15 @@
 
 
   ## 📌 Projects
-- [**FastAPI Scalable Board**](https://github.com/jaenam615/fastapi_crud)
+- [**FastAPI Scalable Board**](https://github.com/jaenam615/fastapi_crud)  
   Redis, MySQL Master-Replica, Prometheus/Grafana, Locust 부하 테스트
 
-- [**DDIA - In Python**](https://github.com/jaenam615/ddia-python)
+- [**DDIA - In Python**](https://github.com/jaenam615/ddia-python)  
   WAL, Memtable, LSM-Tree 등
 
   ## 🧰 Tech Stack
-  **Languages**: Python, TypeScript, Kotlin, SQL
-  **Backend**: FastAPI, Spring Boot, 
+  **Languages**: Python, TypeScript, Kotlin, SQL  
+  **Backend**: FastAPI, Spring Boot  
   **Data**: MySQL, Redis, Snowflake  
-  **Infra**: AWS(ECS, SQS, S3), Docker, Terraform  
-  **Etc**: Prometheus, GitHub Actions
+  **Infra**: AWS(ECS, SQS, S3), Docker, Terraform   
+  **Etc**: Prometheus, GitHub Actions  
