@@ -22,8 +22,8 @@
   WAL, Memtable, LSM-Tree 등
 
   ## 🧰 Tech Stack
-**Languages**: Python, TypeScript, Kotlin, SQL
-**Backend**: FastAPI, Spring Boot, 
-**Data**: MySQL, Redis, Snowflake  
-**Infra**: AWS(ECS, SQS, S3), Docker, Terraform  
-**Etc**: Prometheus, GitHub Actions
+  **Languages**: Python, TypeScript, Kotlin, SQL
+  **Backend**: FastAPI, Spring Boot, 
+  **Data**: MySQL, Redis, Snowflake  
+  **Infra**: AWS(ECS, SQS, S3), Docker, Terraform  
+  **Etc**: Prometheus, GitHub Actions
