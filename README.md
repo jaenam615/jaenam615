@@ -15,6 +15,9 @@
 
 
   ## 📌 Projects
+- [AB180 인턴 프로젝트](https://janam.notion.site/AB180-25d574db87a680a09043f7f314c2cb57)
+  Python, Airflow, Snowflake, AWS 기반 데이터 파이프라인
+  
 - [**FastAPI Scalable Board**](https://github.com/jaenam615/fastapi_crud)  
   Redis, MySQL Master-Replica, Prometheus/Grafana, Locust 부하 테스트
 
