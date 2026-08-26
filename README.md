@@ -10,10 +10,6 @@
 - **문제 해결 중심의 디버깅 능력**  
   로그 분석 → 재현 → 근본 원인 파악까지 스스로 진행하며 실 서비스 장애를 해결한 경험이 있습니다.
 
-- **배우면 실험하는 개발자**  
-  LRU Cache, WAL·SSTable, 트래픽 부하 실험 등 새로운 개념을 직접 구현하며 이해를 검증합니다.
-
-
   ## 📌 Projects
 - [**Portfolio**](https://jaenam615.github.io/portfolio)
   
@@ -21,8 +17,8 @@
   Python, Airflow, Snowflake, AWS 기반 데이터 파이프라인
 
   ## 🧰 Tech Stack
-  **Languages**: Python, TypeScript, Kotlin, SQL  
+  **Languages**: Python, Kotlin, SQL  
   **Backend**: FastAPI, Spring Boot  
-  **Data**: MySQL, Redis, Snowflake  
+  **Data**: Postgres, Redis, Snowflake  
   **Infra**: AWS(ECS, SQS, S3), Docker, Terraform   
   **Etc**: Prometheus, GitHub Actions  
