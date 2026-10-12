@@ -17,9 +17,9 @@
   Python, Airflow, Snowflake, AWS 기반 데이터 파이프라인
 
   ## Open Source Contributions
-  [lopdf](https://github.com/J-F-Liu/lopdf) : Polaris Office로 생성된 PDF도 마크다운 파싱되도록 하기
-  https://github.com/J-F-Liu/lopdf/pull/600
-  https://github.com/J-F-Liu/lopdf/pull/599
+  [lopdf](https://github.com/J-F-Liu/lopdf) : Polaris Office로 생성된 PDF도 마크다운 파싱되도록 하기  
+  https://github.com/J-F-Liu/lopdf/pull/600  
+  https://github.com/J-F-Liu/lopdf/pull/599  
 
   ## 🧰 Tech Stack
   **Languages**: Python, Kotlin, SQL  
