@@ -16,6 +16,11 @@
 - [**AB180 인턴 경력기술서**](https://janam.notion.site/AB180-25d574db87a680a09043f7f314c2cb57)  
   Python, Airflow, Snowflake, AWS 기반 데이터 파이프라인
 
+  ## Open Source Contributions
+  [lopdf](https://github.com/J-F-Liu/lopdf) : Polaris Office로 생성된 PDF도 마크다운 파싱되도록 하기
+  https://github.com/J-F-Liu/lopdf/pull/600
+  https://github.com/J-F-Liu/lopdf/pull/599
+
   ## 🧰 Tech Stack
   **Languages**: Python, Kotlin, SQL  
   **Backend**: FastAPI, Spring Boot  
